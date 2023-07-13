@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@adhlllkhnn**
+- 👋 Hi, I’m **Adhil Khan**
 - 👀 I’m interested in **Web Development**
 - 🌱 I’m currently learning **The Odin Project**
 - 💞️ I’m looking to collaborate on small **HTML,CSS,JS** projects
